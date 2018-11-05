@@ -1,0 +1,1 @@
+responsive image src change depending on screen width.
